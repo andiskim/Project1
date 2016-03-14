@@ -2,7 +2,7 @@
 outline: 1px solid red !important;
 }*/
 
-*{
+* {
 -webkit-box-sizing: border-box;
 -moz-box-sizing: border-box;
 -ms-box-sizing: border-box;
@@ -150,7 +150,7 @@ img {
 }
 
 @media screen and (max-width: 400px) {
-  h1{
+  h1 {
     font-size: 2em;
   }
 }
